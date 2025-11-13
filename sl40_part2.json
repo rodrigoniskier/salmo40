@@ -1,0 +1,324 @@
+[
+  {
+    "hebrew": "רַבּוֹת",
+    "translit": "rabbot",
+    "pt_translation": "Muitas (coisas)",
+    "grammar": "Adjetivo feminino plural (raiz: רבב)",
+    "verse": 6
+  },
+  {
+    "hebrew": "עָשִׂיתָ",
+    "translit": "asita",
+    "pt_translation": "Fizeste",
+    "grammar": "Verbo Qal Perfeito 2ª masc. sing. (raiz: עשה)",
+    "verse": 6
+  },
+  {
+    "hebrew": "אַתָּה",
+    "translit": "attah",
+    "pt_translation": "Tu",
+    "grammar": "Pronome pessoal 2ª masc. sing.",
+    "verse": 6
+  },
+  {
+    "hebrew": "יְהוָה",
+    "translit": "Adonai",
+    "pt_translation": "SENHOR",
+    "grammar": "Substantivo próprio (Tetragrama)",
+    "verse": 6
+  },
+  {
+    "hebrew": "אֱלֹהַי",
+    "translit": "elohai",
+    "pt_translation": "Meu Deus",
+    "grammar": "Substantivo masculino plural construto + Sufixo 1ª com. sing.",
+    "verse": 6
+  },
+  {
+    "hebrew": "נִפְלְאֹתֶיךָ",
+    "translit": "nifleoteicha",
+    "pt_translation": "Tuas maravilhas",
+    "grammar": "Substantivo feminino plural (Particípio Nifal substantivado) + Sufixo 2ª masc. sing.",
+    "verse": 6
+  },
+  {
+    "hebrew": "וּמַחְשְׁבֹתֶיךָ",
+    "translit": "umachshevoteicha",
+    "pt_translation": "E teus pensamentos / planos",
+    "grammar": "Conjunção + Substantivo feminino plural + Sufixo 2ª masc. sing. (raiz: חשׁב)",
+    "verse": 6
+  },
+  {
+    "hebrew": "אֵלֵינוּ",
+    "translit": "eleinu",
+    "pt_translation": "Para conosco",
+    "grammar": "Preposição 'el' + Sufixo pronominal 1ª com. plural",
+    "verse": 6
+  },
+  {
+    "hebrew": "אֵין",
+    "translit": "ein",
+    "pt_translation": "Não há / Ninguém",
+    "grammar": "Partícula de negação existencial",
+    "verse": 6
+  },
+  {
+    "hebrew": "עֲרֹךְ",
+    "translit": "aroch",
+    "pt_translation": "Que se compare / Ordenar",
+    "grammar": "Verbo Qal Infinitivo Construto (usado em contexto comparativo)",
+    "verse": 6
+  },
+  {
+    "hebrew": "אֵלֶיךָ",
+    "translit": "eleicha",
+    "pt_translation": "A ti",
+    "grammar": "Preposição 'el' + Sufixo pronominal 2ª masc. sing.",
+    "verse": 6
+  },
+  {
+    "hebrew": "אַגִּידָה",
+    "translit": "aggidah",
+    "pt_translation": "Eu anunciarei / Relatarei",
+    "grammar": "Verbo Hifil Imperfeito 1ª com. sing. (Coortativo - intenção) (raiz: נגד)",
+    "verse": 6
+  },
+  {
+    "hebrew": "וַאֲדַבֵּרָה",
+    "translit": "va'adabberah",
+    "pt_translation": "E falarei",
+    "grammar": "Conjunção + Verbo Piel Imperfeito 1ª com. sing. (Coortativo) (raiz: דבר)",
+    "verse": 6
+  },
+  {
+    "hebrew": "עָצְמוּ",
+    "translit": "atsmu",
+    "pt_translation": "São numerosos (demais)",
+    "grammar": "Verbo Qal Perfeito 3ª com. plural (raiz: עצם)",
+    "verse": 6
+  },
+  {
+    "hebrew": "מִסַּפֵּר",
+    "translit": "missapper",
+    "pt_translation": "Para contar / Do que se pode contar",
+    "grammar": "Preposição 'min' + Verbo Piel Infinitivo Construto (raiz: ספר)",
+    "verse": 6
+  },
+  {
+    "hebrew": "זֶבַח",
+    "translit": "zevach",
+    "pt_translation": "Sacrifício (de sangue)",
+    "grammar": "Substantivo masculino singular",
+    "verse": 7
+  },
+  {
+    "hebrew": "וּמִנְחָה",
+    "translit": "uminchah",
+    "pt_translation": "E oferta de cereais",
+    "grammar": "Conjunção + Substantivo feminino singular",
+    "verse": 7
+  },
+  {
+    "hebrew": "לֹא־חָפַצְתָּ",
+    "translit": "lo-chafatsta",
+    "pt_translation": "Não desejaste",
+    "grammar": "Negação + Verbo Qal Perfeito 2ª masc. sing. (raiz: חפץ)",
+    "verse": 7
+  },
+  {
+    "hebrew": "אָזְנַיִם",
+    "translit": "oznayim",
+    "pt_translation": "Orelhas (ouvidos)",
+    "grammar": "Substantivo feminino dual",
+    "verse": 7
+  },
+  {
+    "hebrew": "כָּרִיתָ",
+    "translit": "karita",
+    "pt_translation": "Cavaste / Abriste (furaste)",
+    "grammar": "Verbo Qal Perfeito 2ª masc. sing. (raiz: כרה)",
+    "verse": 7
+  },
+  {
+    "hebrew": "לִּי",
+    "translit": "li",
+    "pt_translation": "Para mim / Em mim",
+    "grammar": "Preposição 'le' + Sufixo pronominal 1ª com. sing.",
+    "verse": 7
+  },
+  {
+    "hebrew": "עוֹלָה",
+    "translit": "olah",
+    "pt_translation": "Holocausto",
+    "grammar": "Substantivo feminino singular",
+    "verse": 7
+  },
+  {
+    "hebrew": "וַחֲטָאָה",
+    "translit": "vachata'ah",
+    "pt_translation": "E oferta pelo pecado",
+    "grammar": "Conjunção + Substantivo feminino singular",
+    "verse": 7
+  },
+  {
+    "hebrew": "לֹא",
+    "translit": "lo",
+    "pt_translation": "Não",
+    "grammar": "Partícula de negação",
+    "verse": 7
+  },
+  {
+    "hebrew": "שָׁאָלְתָּ",
+    "translit": "sha'alta",
+    "pt_translation": "Pediste / Requereste",
+    "grammar": "Verbo Qal Perfeito 2ª masc. sing. (raiz: שאל)",
+    "verse": 7
+  },
+  {
+    "hebrew": "אָז",
+    "translit": "az",
+    "pt_translation": "Então",
+    "grammar": "Advérbio de tempo",
+    "verse": 8
+  },
+  {
+    "hebrew": "אָמַרְתִּי",
+    "translit": "amarti",
+    "pt_translation": "Eu disse",
+    "grammar": "Verbo Qal Perfeito 1ª com. sing. (raiz: אמר)",
+    "verse": 8
+  },
+  {
+    "hebrew": "הִנֵּה־בָאתִי",
+    "translit": "hinneh-vati",
+    "pt_translation": "Eis que venho",
+    "grammar": "Partícula interjectiva + Verbo Qal Perfeito 1ª com. sing. (raiz: בוא)",
+    "verse": 8
+  },
+  {
+    "hebrew": "בִּמְגִלַּת־סֵפֶר",
+    "translit": "bimgillat-sefer",
+    "pt_translation": "No rolo do livro",
+    "grammar": "Preposição + Substantivo fem. sing. construto + Substantivo masc. sing.",
+    "verse": 8
+  },
+  {
+    "hebrew": "כָּתוּב",
+    "translit": "katuv",
+    "pt_translation": "Está escrito",
+    "grammar": "Verbo Qal Particípio Passivo masculino singular (raiz: כתב)",
+    "verse": 8
+  },
+  {
+    "hebrew": "עָלָי",
+    "translit": "alai",
+    "pt_translation": "A meu respeito / Sobre mim",
+    "grammar": "Preposição 'al' + Sufixo pronominal 1ª com. sing.",
+    "verse": 8
+  },
+  {
+    "hebrew": "לַעֲשׂוֹת־רְצוֹנְךָ",
+    "translit": "la'asot-retsonecha",
+    "pt_translation": "Para fazer a tua vontade",
+    "grammar": "Preposição + Verbo Qal Inf. Construto + Subst. masc. sing. + Sufixo 2ª masc.",
+    "verse": 9
+  },
+  {
+    "hebrew": "אֱלֹהַי",
+    "translit": "elohai",
+    "pt_translation": "Meu Deus",
+    "grammar": "Substantivo masculino plural + Sufixo 1ª com. sing.",
+    "verse": 9
+  },
+  {
+    "hebrew": "חָפָצְתִּי",
+    "translit": "chafatsti",
+    "pt_translation": "Eu desejo / Me comprazo",
+    "grammar": "Verbo Qal Perfeito 1ª com. sing. (raiz: חפץ)",
+    "verse": 9
+  },
+  {
+    "hebrew": "וְתוֹרָתְךָ",
+    "translit": "vetoratcha",
+    "pt_translation": "E a tua lei",
+    "grammar": "Conjunção + Substantivo feminino singular + Sufixo 2ª masc. sing.",
+    "verse": 9
+  },
+  {
+    "hebrew": "בְּתוֹךְ",
+    "translit": "betoch",
+    "pt_translation": "No meio de / Dentro",
+    "grammar": "Preposição + Substantivo masculino singular construto",
+    "verse": 9
+  },
+  {
+    "hebrew": "מֵעָי",
+    "translit": "me'ai",
+    "pt_translation": "Minhas entranhas (coração)",
+    "grammar": "Substantivo masculino plural construto + Sufixo 1ª com. sing. (raiz: מעה)",
+    "verse": 9
+  },
+  {
+    "hebrew": "בִּשַּׂרְתִּי",
+    "translit": "bissarti",
+    "pt_translation": "Proclamei boas novas",
+    "grammar": "Verbo Piel Perfeito 1ª com. sing. (raiz: בשר)",
+    "verse": 10
+  },
+  {
+    "hebrew": "צֶדֶק",
+    "translit": "tsedeq",
+    "pt_translation": "Justiça",
+    "grammar": "Substantivo masculino singular",
+    "verse": 10
+  },
+  {
+    "hebrew": "בְּקָהָל",
+    "translit": "beqahal",
+    "pt_translation": "Na assembleia / congregação",
+    "grammar": "Preposição 'be' + Substantivo masculino singular",
+    "verse": 10
+  },
+  {
+    "hebrew": "רָב",
+    "translit": "rav",
+    "pt_translation": "Grande",
+    "grammar": "Adjetivo masculino singular",
+    "verse": 10
+  },
+  {
+    "hebrew": "הִנֵּה",
+    "translit": "hinneh",
+    "pt_translation": "Eis que",
+    "grammar": "Partícula de atenção",
+    "verse": 10
+  },
+  {
+    "hebrew": "שְׂפָתַי",
+    "translit": "sfatai",
+    "pt_translation": "Meus lábios",
+    "grammar": "Substantivo feminino dual construto + Sufixo 1ª com. sing.",
+    "verse": 10
+  },
+  {
+    "hebrew": "לֹא",
+    "translit": "lo",
+    "pt_translation": "Não",
+    "grammar": "Partícula de negação",
+    "verse": 10
+  },
+  {
+    "hebrew": "אֶכְלָא",
+    "translit": "echla",
+    "pt_translation": "Restringi / Fechei",
+    "grammar": "Verbo Qal Imperfeito 1ª com. sing. (raiz: כלא)",
+    "verse": 10
+  },
+  {
+    "hebrew": "יָדָעְתָּ",
+    "translit": "yadata",
+    "pt_translation": "Tu sabes",
+    "grammar": "Verbo Qal Perfeito 2ª masc. sing. (raiz: ידע)",
+    "verse": 10
+  }
+]
