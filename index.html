@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Léxico Analítico - Salmo 40 (BHS)</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #c0392b;
+            --bg-color: #f4f4f9;
+            --card-bg: #ffffff;
+            --text-color: #333;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 20px;
+        }
+
+        h1 {
+            color: var(--primary-color);
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        p.subtitle {
+            color: #666;
+            font-style: italic;
+        }
+
+        /* Container de busca */
+        .search-container {
+            max-width: 600px;
+            margin: 0 auto 30px auto;
+            text-align: center;
+        }
+
+        input#searchBox {
+            width: 100%;
+            padding: 12px;
+            font-size: 1.1rem;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        /* Grid de Cards */
+        #dictionary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Estilo do Card */
+        .word-card {
+            background-color: var(--card-bg);
+            border-left: 5px solid var(--accent-color);
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s ease;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .word-card:hover {
+            transform: translateY(-5px);
+        }
+
+        /* Tipografia Hebraica */
+        .hebrew-term {
+            font-family: 'SBL Hebrew', 'Ezra SIL', 'Times New Roman', serif;
+            font-size: 2.2rem;
+            color: var(--primary-color);
+            direction: rtl; /* Da direita para esquerda */
+            text-align: center;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .transliteration {
+            text-align: center;
+            font-weight: bold;
+            color: var(--accent-color);
+            margin-bottom: 15px;
+            font-family: monospace;
+            font-size: 1.1rem;
+        }
+
+        .details {
+            border-top: 1px solid #eee;
+            padding-top: 10px;
+            font-size: 0.95rem;
+        }
+
+        .detail-row {
+            display: flex;
+            margin-bottom: 8px;
+        }
+
+        .label {
+            font-weight: bold;
+            width: 100px;
+            color: #555;
+            flex-shrink: 0;
+        }
+
+        .content {
+            color: #222;
+        }
+
+        .loading {
+            text-align: center;
+            font-size: 1.5rem;
+            color: var(--primary-color);
+            margin-top: 50px;
+        }
+
+        .error {
+            text-align: center;
+            color: red;
+            background: #ffe6e6;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 0.8rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Léxico Analítico: Salmo 40</h1>
+        <p class="subtitle">Vocabulário Exegético Baseado na Biblia Hebraica Stuttgartensia (BHS)</p>
+    </header>
+
+    <div class="search-container">
+        <input type="text" id="searchBox" placeholder="Buscar por palavra, transliteração ou tradução...">
+    </div>
+
+    <div id="status-message" class="loading">Carregando corpus linguístico...</div>
+
+    <div id="dictionary-grid">
+        </div>
+
+    <footer>
+        Desenvolvido sob princípios de Integridade Informacional Absoluta. Baseado na BHS.
+    </footer>
+
+    <script>
+        // Nomes dos arquivos JSON que serão gerados
+        const jsonFiles = [
+            'sl40_part1.json', // vv. 1-5
+            'sl40_part2.json', // vv. 6-10
+            'sl40_part3.json', // vv. 11-15
+            'sl40_part4.json'  // vv. 16-18 (assumindo versificação BHS que vai até o 18)
+        ];
+
+        let masterVocabulary = [];
+
+        // Função principal de carregamento
+        async function loadVocabulary() {
+            const statusDiv = document.getElementById('status-message');
+            try {
+                // Faz o fetch de todos os arquivos simultaneamente
+                const promises = jsonFiles.map(file => fetch(file).then(response => {
+                    if (!response.ok) throw new Error(`Falha ao carregar ${file}`);
+                    return response.json();
+                }));
+
+                const results = await Promise.all(promises);
+                
+                // Funde os arrays dos 4 arquivos em um único array mestre
+                masterVocabulary = results.flat();
+
+                // Ordena alfabeticamente pelo termo em hebraico
+                masterVocabulary.sort((a, b) => {
+                    return a.hebrew.localeCompare(b.hebrew, 'he');
+                });
+
+                statusDiv.style.display = 'none';
+                renderCards(masterVocabulary);
+
+            } catch (error) {
+                console.error(error);
+                statusDiv.className = 'error';
+                statusDiv.innerHTML = `
+                    <strong>Erro ao carregar dados.</strong><br>
+                    Certifique-se de que os 4 arquivos JSON estão na mesma pasta e que você está rodando isso em um servidor local (ex: VS Code Live Server) devido a políticas de segurança do navegador (CORS).<br>
+                    Detalhe: ${error.message}
+                `;
+            }
+        }
+
+        // Função para renderizar os cards na tela
+        function renderCards(vocabList) {
+            const grid = document.getElementById('dictionary-grid');
+            grid.innerHTML = ''; // Limpa o grid
+
+            if (vocabList.length === 0) {
+                grid.innerHTML = '<p style="text-align:center; grid-column: 1/-1;">Nenhum termo encontrado.</p>';
+                return;
+            }
+
+            vocabList.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'word-card';
+
+                card.innerHTML = `
+                    <div class="hebrew-term" lang="he">${item.hebrew}</div>
+                    <div class="transliteration">${item.translit}</div>
+                    <div class="details">
+                        <div class="detail-row">
+                            <span class="label">Tradução:</span>
+                            <span class="content">${item.pt_translation}</span>
+                        </div>
+                        <div class="detail-row">
+                            <span class="label">Gramática:</span>
+                            <span class="content">${item.grammar}</span>
+                        </div>
+                        <div class="detail-row">
+                            <span class="label">Referência:</span>
+                            <span class="content">Salmos 40:${item.verse}</span>
+                        </div>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        // Lógica de Busca (Filtro)
+        document.getElementById('searchBox').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase();
+            
+            const filtered = masterVocabulary.filter(item => {
+                return (
+                    item.translit.toLowerCase().includes(query) ||
+                    item.pt_translation.toLowerCase().includes(query) ||
+                    item.hebrew.includes(query)
+                );
+            });
+
+            renderCards(filtered);
+        });
+
+        // Inicia a aplicação
+        loadVocabulary();
+    </script>
+</body>
+</html>
