@@ -1,0 +1,282 @@
+[
+  {
+    "hebrew": "לַמְנַצֵּחַ",
+    "translit": "lamnatseach",
+    "pt_translation": "Ao mestre de canto / Ao regente",
+    "grammar": "Preposição 'le' + Artigo (assimilado) + Particípio Piel masculino singular (raiz: נצח)",
+    "verse": 1
+  },
+  {
+    "hebrew": "לְדָוִד",
+    "translit": "ledavid",
+    "pt_translation": "De Davi / Para Davi",
+    "grammar": "Preposição 'le' + Substantivo próprio",
+    "verse": 1
+  },
+  {
+    "hebrew": "מִזְמוֹר",
+    "translit": "mizmor",
+    "pt_translation": "Salmo / Melodia",
+    "grammar": "Substantivo masculino singular (raiz: זמר)",
+    "verse": 1
+  },
+  {
+    "hebrew": "קַוֹּה",
+    "translit": "qavvoh",
+    "pt_translation": "Esperar (intensamente)",
+    "grammar": "Infinitivo Absoluto Piel (raiz: קוה) - usado para ênfase",
+    "verse": 2
+  },
+  {
+    "hebrew": "קִוִּיתִי",
+    "translit": "qivviti",
+    "pt_translation": "Esperei",
+    "grammar": "Verbo Piel Perfeito 1ª com. sing. (raiz: קוה)",
+    "verse": 2
+  },
+  {
+    "hebrew": "יְהוָה",
+    "translit": "Adonai",
+    "pt_translation": "SENHOR",
+    "grammar": "Substantivo próprio (Tetragrama Sagrado)",
+    "verse": 2
+  },
+  {
+    "hebrew": "וַיֵּט",
+    "translit": "vayyet",
+    "pt_translation": "E ele se inclinou",
+    "grammar": "Waw consecutivo + Verbo Hifil Imperfeito (apocopado) 3ª masc. sing. (raiz: נטה)",
+    "verse": 2
+  },
+  {
+    "hebrew": "אֵלַי",
+    "translit": "elai",
+    "pt_translation": "Para mim",
+    "grammar": "Preposição 'el' + Sufixo pronominal 1ª com. sing.",
+    "verse": 2
+  },
+  {
+    "hebrew": "וַיִּשְׁמַע",
+    "translit": "vayyishma",
+    "pt_translation": "E ouviu",
+    "grammar": "Waw consecutivo + Verbo Qal Imperfeito 3ª masc. sing. (raiz: שמע)",
+    "verse": 2
+  },
+  {
+    "hebrew": "שַׁוְעָתִי",
+    "translit": "shav'ati",
+    "pt_translation": "Meu clamor por socorro",
+    "grammar": "Substantivo fem. sing. construto + Sufixo pronominal 1ª com. sing. (raiz: שוע)",
+    "verse": 2
+  },
+  {
+    "hebrew": "וַיַּעֲלֵנִי",
+    "translit": "vayya'aleni",
+    "pt_translation": "E fez-me subir / tirou-me",
+    "grammar": "Waw consecutivo + Verbo Hifil Imperfeito 3ª masc. sing. + Sufixo 1ª com. sing. (raiz: עלה)",
+    "verse": 3
+  },
+  {
+    "hebrew": "מִבּוֹר",
+    "translit": "mibbor",
+    "pt_translation": "Da cova / Do poço",
+    "grammar": "Preposição 'min' + Substantivo masculino singular",
+    "verse": 3
+  },
+  {
+    "hebrew": "שָׁאוֹן",
+    "translit": "shaon",
+    "pt_translation": "De destruição / tumulto / ruído",
+    "grammar": "Substantivo masculino singular (raiz: שאה)",
+    "verse": 3
+  },
+  {
+    "hebrew": "מִטִּיט",
+    "translit": "mittit",
+    "pt_translation": "Do lodo / Da lama",
+    "grammar": "Preposição 'min' + Substantivo masculino singular",
+    "verse": 3
+  },
+  {
+    "hebrew": "הַיָּוֵן",
+    "translit": "hayyaven",
+    "pt_translation": "O pegajoso / O lamaçal",
+    "grammar": "Artigo + Substantivo masculino singular (raiz: יון)",
+    "verse": 3
+  },
+  {
+    "hebrew": "וַיָּקֶם",
+    "translit": "vayyaqem",
+    "pt_translation": "E colocou / fez levantar",
+    "grammar": "Waw consecutivo + Verbo Hifil Imperfeito (apocopado) 3ª masc. sing. (raiz: קום)",
+    "verse": 3
+  },
+  {
+    "hebrew": "עַל־סֶלַע",
+    "translit": "al-sela",
+    "pt_translation": "Sobre uma rocha",
+    "grammar": "Preposição 'al' + Maqqef + Substantivo masculino singular",
+    "verse": 3
+  },
+  {
+    "hebrew": "רַגְלַי",
+    "translit": "raglai",
+    "pt_translation": "Meus pés",
+    "grammar": "Substantivo feminino dual construto + Sufixo pronominal 1ª com. sing.",
+    "verse": 3
+  },
+  {
+    "hebrew": "כּוֹנֵן",
+    "translit": "konen",
+    "pt_translation": "Firmou / Estabeleceu",
+    "grammar": "Verbo Polel (equivalente Piel para raízes ocas) Perfeito 3ª masc. sing. (raiz: כון)",
+    "verse": 3
+  },
+  {
+    "hebrew": "אֲשֻׁרָי",
+    "translit": "ashurai",
+    "pt_translation": "Meus passos",
+    "grammar": "Substantivo masculino plural construto + Sufixo pronominal 1ª com. sing. (raiz: אשר)",
+    "verse": 3
+  },
+  {
+    "hebrew": "וַיִּתֵּן",
+    "translit": "vayyitten",
+    "pt_translation": "E pôs / E deu",
+    "grammar": "Waw consecutivo + Verbo Qal Imperfeito 3ª masc. sing. (raiz: נתן)",
+    "verse": 4
+  },
+  {
+    "hebrew": "בְּפִי",
+    "translit": "befi",
+    "pt_translation": "Em minha boca",
+    "grammar": "Preposição 'be' + Substantivo masculino singular construto + Sufixo 1ª com. sing.",
+    "verse": 4
+  },
+  {
+    "hebrew": "שִׁיר",
+    "translit": "shir",
+    "pt_translation": "Cântico",
+    "grammar": "Substantivo masculino singular",
+    "verse": 4
+  },
+  {
+    "hebrew": "חָדָשׁ",
+    "translit": "chadash",
+    "pt_translation": "Novo",
+    "grammar": "Adjetivo masculino singular",
+    "verse": 4
+  },
+  {
+    "hebrew": "תְּהִלָּה",
+    "translit": "tehillah",
+    "pt_translation": "Louvor / Hino",
+    "grammar": "Substantivo feminino singular (raiz: הלל)",
+    "verse": 4
+  },
+  {
+    "hebrew": "לֵאלֹהֵינוּ",
+    "translit": "leloheinu",
+    "pt_translation": "Ao nosso Deus",
+    "grammar": "Preposição 'le' + Substantivo masculino plural construto + Sufixo 1ª com. plural",
+    "verse": 4
+  },
+  {
+    "hebrew": "יִרְאוּ",
+    "translit": "yir'u",
+    "pt_translation": "Verão",
+    "grammar": "Verbo Qal Imperfeito 3ª masc. plural (raiz: ראה)",
+    "verse": 4
+  },
+  {
+    "hebrew": "רַבִּים",
+    "translit": "rabbim",
+    "pt_translation": "Muitos",
+    "grammar": "Adjetivo masculino plural",
+    "verse": 4
+  },
+  {
+    "hebrew": "וְיִירָאוּ",
+    "translit": "veyira'u",
+    "pt_translation": "E temerão",
+    "grammar": "Conjunção 'vav' + Verbo Qal Imperfeito 3ª masc. plural (raiz: ירא)",
+    "verse": 4
+  },
+  {
+    "hebrew": "וְיִבְטְחוּ",
+    "translit": "veyivtechu",
+    "pt_translation": "E confiarão",
+    "grammar": "Conjunção 'vav' + Verbo Qal Imperfeito 3ª masc. plural (raiz: בטח)",
+    "verse": 4
+  },
+  {
+    "hebrew": "בַּיהוָה",
+    "translit": "baAdonai",
+    "pt_translation": "No SENHOR",
+    "grammar": "Preposição 'be' + Substantivo próprio (Tetragrama)",
+    "verse": 4
+  },
+  {
+    "hebrew": "אַשְׁרֵי",
+    "translit": "ashrei",
+    "pt_translation": "Bem-aventurado / Feliz é",
+    "grammar": "Substantivo masculino plural construto (usado como interjeição)",
+    "verse": 5
+  },
+  {
+    "hebrew": "הַגֶּבֶר",
+    "translit": "hagever",
+    "pt_translation": "O homem (varão)",
+    "grammar": "Artigo + Substantivo masculino singular",
+    "verse": 5
+  },
+  {
+    "hebrew": "אֲשֶׁר",
+    "translit": "asher",
+    "pt_translation": "Que / O qual",
+    "grammar": "Pronome relativo",
+    "verse": 5
+  },
+  {
+    "hebrew": "שָׂם",
+    "translit": "sam",
+    "pt_translation": "Pôs / Fez",
+    "grammar": "Verbo Qal Perfeito 3ª masc. sing. (raiz: שום)",
+    "verse": 5
+  },
+  {
+    "hebrew": "מִבְטַחוֹ",
+    "translit": "mivtacho",
+    "pt_translation": "Sua confiança",
+    "grammar": "Substantivo masculino singular construto (de mivtach) + Sufixo 3ª masc. sing.",
+    "verse": 5
+  },
+  {
+    "hebrew": "וְלֹא־פָנָה",
+    "translit": "velo-fanah",
+    "pt_translation": "E não se voltou",
+    "grammar": "Conjunção + Negação + Verbo Qal Perfeito 3ª masc. sing. (raiz: פנה)",
+    "verse": 5
+  },
+  {
+    "hebrew": "אֶל־רְהָבִים",
+    "translit": "el-rehavim",
+    "pt_translation": "Para os soberbos / arrogantes",
+    "grammar": "Preposição + Substantivo masculino plural (ou adjetivo substantivado)",
+    "verse": 5
+  },
+  {
+    "hebrew": "וְשָׂטֵי",
+    "translit": "vesatei",
+    "pt_translation": "E os que se desviam para",
+    "grammar": "Conjunção + Particípio Qal masculino plural construto (raiz: שוט)",
+    "verse": 5
+  },
+  {
+    "hebrew": "כָזָב",
+    "translit": "chazav",
+    "pt_translation": "Mentira / Falsidade",
+    "grammar": "Substantivo masculino singular",
+    "verse": 5
+  }
+]
