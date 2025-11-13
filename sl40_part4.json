@@ -1,0 +1,156 @@
+[
+  {
+    "hebrew": "יָשִׂישׂוּ",
+    "translit": "yassissu",
+    "pt_translation": "Folguem / Exultem",
+    "grammar": "Verbo Qal Imperfeito 3ª masc. plural (raiz: שׂושׂ)",
+    "verse": 16
+  },
+  {
+    "hebrew": "וְיִשְׂמְחוּ",
+    "translit": "veyismechu",
+    "pt_translation": "E alegrem-se",
+    "grammar": "Conjunção + Verbo Qal Imperfeito 3ª masc. plural (raiz: שמח)",
+    "verse": 16
+  },
+  {
+    "hebrew": "בְּךָ",
+    "translit": "becha",
+    "pt_translation": "Em ti",
+    "grammar": "Preposição 'be' + Sufixo pronominal 2ª masc. sing.",
+    "verse": 16
+  },
+  {
+    "hebrew": "כָּל־מְבַקְשֶׁיךָ",
+    "translit": "kol-mevaksheicha",
+    "pt_translation": "Todos os que te buscam",
+    "grammar": "Substantivo (todo) + Verbo Piel Particípio masc. pl. construto + Sufixo 2ª masc. sing.",
+    "verse": 16
+  },
+  {
+    "hebrew": "יֹאמְרוּ",
+    "translit": "yomeru",
+    "pt_translation": "Digam",
+    "grammar": "Verbo Qal Imperfeito 3ª masc. plural (raiz: אמר)",
+    "verse": 16
+  },
+  {
+    "hebrew": "תָּמִיד",
+    "translit": "tamid",
+    "pt_translation": "Sempre / Continuamente",
+    "grammar": "Advérbio",
+    "verse": 16
+  },
+  {
+    "hebrew": "יִגְדַּל",
+    "translit": "yigdal",
+    "pt_translation": "Seja engrandecido / Magnificado",
+    "grammar": "Verbo Qal Imperfeito 3ª masc. sing. (sentido jussivo) (raiz: גדל)",
+    "verse": 16
+  },
+  {
+    "hebrew": "יְהוָה",
+    "translit": "Adonai",
+    "pt_translation": "O SENHOR",
+    "grammar": "Substantivo próprio (Tetragrama)",
+    "verse": 16
+  },
+  {
+    "hebrew": "אֹהֲבֵי",
+    "translit": "ohavei",
+    "pt_translation": "Os que amam",
+    "grammar": "Verbo Qal Particípio masculino plural construto (raiz: אהב)",
+    "verse": 16
+  },
+  {
+    "hebrew": "תְּשׁוּעָתֶךָ",
+    "translit": "teshu'atecha",
+    "pt_translation": "Tua salvação",
+    "grammar": "Substantivo feminino singular + Sufixo 2ª masc. sing. (raiz: ישׁע)",
+    "verse": 16
+  },
+  {
+    "hebrew": "וַאֲנִי",
+    "translit": "va'ani",
+    "pt_translation": "Quanto a mim / Eu, porém",
+    "grammar": "Conjunção + Pronome pessoal 1ª com. sing.",
+    "verse": 17
+  },
+  {
+    "hebrew": "עָנִי",
+    "translit": "ani",
+    "pt_translation": "Pobre / Aflito",
+    "grammar": "Adjetivo masculino singular (raiz: ענה)",
+    "verse": 17
+  },
+  {
+    "hebrew": "וְאֶבְיוֹן",
+    "translit": "ve'evyon",
+    "pt_translation": "E necessitado",
+    "grammar": "Conjunção + Adjetivo masculino singular",
+    "verse": 17
+  },
+  {
+    "hebrew": "אֲדֹנָי",
+    "translit": "Adonai",
+    "pt_translation": "O Senhor (Soberano)",
+    "grammar": "Substantivo próprio (forma enfática de Adon)",
+    "verse": 17
+  },
+  {
+    "hebrew": "יַחֲשָׁב",
+    "translit": "yachashav",
+    "pt_translation": "Pensa / Cuida",
+    "grammar": "Verbo Qal Imperfeito 3ª masc. sing. (raiz: חשׁב)",
+    "verse": 17
+  },
+  {
+    "hebrew": "לִי",
+    "translit": "li",
+    "pt_translation": "De mim / Por mim",
+    "grammar": "Preposição 'le' + Sufixo pronominal 1ª com. sing.",
+    "verse": 17
+  },
+  {
+    "hebrew": "עֶזְרָתִי",
+    "translit": "ezrati",
+    "pt_translation": "Meu auxílio",
+    "grammar": "Substantivo feminino singular + Sufixo 1ª com. sing. (raiz: עזר)",
+    "verse": 17
+  },
+  {
+    "hebrew": "וּמְפַלְטִי",
+    "translit": "umefalti",
+    "pt_translation": "E meu libertador",
+    "grammar": "Conjunção + Verbo Piel Particípio masc. sing. + Sufixo 1ª com. sing. (raiz: פלט)",
+    "verse": 17
+  },
+  {
+    "hebrew": "אַתָּה",
+    "translit": "attah",
+    "pt_translation": "Tu és",
+    "grammar": "Pronome pessoal 2ª masc. sing.",
+    "verse": 17
+  },
+  {
+    "hebrew": "אֱלֹהַי",
+    "translit": "elohai",
+    "pt_translation": "Deus meu",
+    "grammar": "Substantivo masculino plural construto + Sufixo 1ª com. sing.",
+    "verse": 17
+  },
+  {
+    "hebrew": "אַל",
+    "translit": "al",
+    "pt_translation": "Não",
+    "grammar": "Advérbio de negação (usado em proibições/súplicas imediatas)",
+    "verse": 17
+  },
+  {
+    "hebrew": "תְּאַחַר",
+    "translit": "te'achar",
+    "pt_translation": "Te demores / Tardes",
+    "grammar": "Verbo Piel Imperfeito 2ª masc. sing. (sentido jussivo) (raiz: אחר)",
+    "verse": 17
+  }
+]
