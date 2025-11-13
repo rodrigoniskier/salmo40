@@ -1,0 +1,317 @@
+[
+  {
+    "hebrew": "אַתָּה",
+    "translit": "attah",
+    "pt_translation": "Tu",
+    "grammar": "Pronome pessoal 2ª masc. sing.",
+    "verse": 11
+  },
+  {
+    "hebrew": "יְהוָה",
+    "translit": "Adonai",
+    "pt_translation": "SENHOR",
+    "grammar": "Substantivo próprio (Tetragrama)",
+    "verse": 11
+  },
+  {
+    "hebrew": "לֹא־תִכְלָא",
+    "translit": "lo-tichla",
+    "pt_translation": "Não retenhas / Não feches",
+    "grammar": "Negação + Verbo Qal Imperfeito 2ª masc. sing. (raiz: כלא)",
+    "verse": 11
+  },
+  {
+    "hebrew": "רַחֲמֶיךָ",
+    "translit": "rachameicha",
+    "pt_translation": "Tuas misericórdias",
+    "grammar": "Substantivo masculino plural construto + Sufixo 2ª masc. sing.",
+    "verse": 11
+  },
+  {
+    "hebrew": "מִמֶּנִּי",
+    "translit": "mimmenni",
+    "pt_translation": "De mim",
+    "grammar": "Preposição 'min' + Sufixo pronominal 1ª com. sing.",
+    "verse": 11
+  },
+  {
+    "hebrew": "חַסְדְּךָ",
+    "translit": "chasdecha",
+    "pt_translation": "Tua bondade / amor leal",
+    "grammar": "Substantivo masculino singular + Sufixo 2ª masc. sing. (raiz: חסד)",
+    "verse": 11
+  },
+  {
+    "hebrew": "וַאֲמִתְּךָ",
+    "translit": "va'amittecha",
+    "pt_translation": "E tua verdade",
+    "grammar": "Conjunção + Substantivo feminino singular + Sufixo 2ª masc. sing. (raiz: אמת)",
+    "verse": 11
+  },
+  {
+    "hebrew": "תָּמִיד",
+    "translit": "tamid",
+    "pt_translation": "Continuamente / Sempre",
+    "grammar": "Advérbio",
+    "verse": 11
+  },
+  {
+    "hebrew": "יִצְּרוּנִי",
+    "translit": "yitseruni",
+    "pt_translation": "Me guardem / Me preservem",
+    "grammar": "Verbo Qal Imperfeito 3ª masc. plural + Sufixo 1ª com. sing. (raiz: נצר)",
+    "verse": 11
+  },
+  {
+    "hebrew": "כִּי",
+    "translit": "ki",
+    "pt_translation": "Pois / Porque",
+    "grammar": "Conjunção",
+    "verse": 12
+  },
+  {
+    "hebrew": "אָפְפוּ",
+    "translit": "afevu",
+    "pt_translation": "Cercaram / Rodearam",
+    "grammar": "Verbo Qal Perfeito 3ª com. plural (raiz: אפף)",
+    "verse": 12
+  },
+  {
+    "hebrew": "עָלַי",
+    "translit": "alai",
+    "pt_translation": "Sobre mim",
+    "grammar": "Preposição 'al' + Sufixo pronominal 1ª com. sing.",
+    "verse": 12
+  },
+  {
+    "hebrew": "רָעוֹת",
+    "translit": "ra'ot",
+    "pt_translation": "Males / Desgraças",
+    "grammar": "Substantivo feminino plural (ou adjetivo substantivado)",
+    "verse": 12
+  },
+  {
+    "hebrew": "עַד־אֵין",
+    "translit": "ad-ein",
+    "pt_translation": "Até não haver / Incontáveis",
+    "grammar": "Preposição + Partícula de negação existencial",
+    "verse": 12
+  },
+  {
+    "hebrew": "מִסְפָּר",
+    "translit": "mispar",
+    "pt_translation": "Número / Contagem",
+    "grammar": "Substantivo masculino singular",
+    "verse": 12
+  },
+  {
+    "hebrew": "הִשִּׂיגוּנִי",
+    "translit": "hissiguni",
+    "pt_translation": "Alcançaram-me",
+    "grammar": "Verbo Hifil Perfeito 3ª com. plural + Sufixo 1ª com. sing. (raiz: נשג)",
+    "verse": 12
+  },
+  {
+    "hebrew": "עֲוֺנֹתַי",
+    "translit": "avonotai",
+    "pt_translation": "Minhas iniquidades",
+    "grammar": "Substantivo feminino (forma irregular plural) + Sufixo 1ª com. sing. (raiz: עון)",
+    "verse": 12
+  },
+  {
+    "hebrew": "וְלֹא־יָכֹלְתִּי",
+    "translit": "velo-yacholti",
+    "pt_translation": "E não pude / Não consegui",
+    "grammar": "Conjunção + Negação + Verbo Qal Perfeito 1ª com. sing. (raiz: יכל)",
+    "verse": 12
+  },
+  {
+    "hebrew": "לִרְאוֹת",
+    "translit": "lir'ot",
+    "pt_translation": "Ver",
+    "grammar": "Preposição 'le' + Infinitivo Construto (raiz: ראה)",
+    "verse": 12
+  },
+  {
+    "hebrew": "עָצְמוּ",
+    "translit": "atsmu",
+    "pt_translation": "São mais numerosos",
+    "grammar": "Verbo Qal Perfeito 3ª com. plural (raiz: עצם)",
+    "verse": 12
+  },
+  {
+    "hebrew": "מִשַּׂעֲרוֹת",
+    "translit": "missa'arot",
+    "pt_translation": "Do que os cabelos de",
+    "grammar": "Preposição 'min' (comparativo) + Substantivo fem. plural construto",
+    "verse": 12
+  },
+  {
+    "hebrew": "רֹאשִׁי",
+    "translit": "roshi",
+    "pt_translation": "Minha cabeça",
+    "grammar": "Substantivo masculino singular + Sufixo 1ª com. sing.",
+    "verse": 12
+  },
+  {
+    "hebrew": "וְלִבִּי",
+    "translit": "velibbi",
+    "pt_translation": "E meu coração",
+    "grammar": "Conjunção + Substantivo masculino singular + Sufixo 1ª com. sing.",
+    "verse": 12
+  },
+  {
+    "hebrew": "עֲזָבָנִי",
+    "translit": "azavani",
+    "pt_translation": "Me abandonou / Falhou-me",
+    "grammar": "Verbo Qal Perfeito 3ª masc. sing. + Sufixo 1ª com. sing. (raiz: עזב)",
+    "verse": 12
+  },
+  {
+    "hebrew": "רְצֵה",
+    "translit": "retseh",
+    "pt_translation": "Digna-te / Agrada-te",
+    "grammar": "Verbo Qal Imperativo masculino singular (raiz: רצה)",
+    "verse": 13
+  },
+  {
+    "hebrew": "לְהַצִּילֵנִי",
+    "translit": "lehatsileni",
+    "pt_translation": "Em livrar-me",
+    "grammar": "Preposição + Verbo Hifil Infinitivo Construto + Sufixo 1ª com. sing. (raiz: נצל)",
+    "verse": 13
+  },
+  {
+    "hebrew": "לְעֶזְרָתִי",
+    "translit": "le'ezrati",
+    "pt_translation": "Em meu auxílio / Para minha ajuda",
+    "grammar": "Preposição + Substantivo feminino singular + Sufixo 1ª com. sing.",
+    "verse": 13
+  },
+  {
+    "hebrew": "חוּשָׁה",
+    "translit": "chushah",
+    "pt_translation": "Apressa-te",
+    "grammar": "Verbo Qal Imperativo masculino singular + He parangógico (ênfase) (raiz: חוּשׁ)",
+    "verse": 13
+  },
+  {
+    "hebrew": "יֵבֹשׁוּ",
+    "translit": "yevoshu",
+    "pt_translation": "Sejam envergonhados",
+    "grammar": "Verbo Qal Imperfeito 3ª masc. plural (raiz: בוש)",
+    "verse": 14
+  },
+  {
+    "hebrew": "וְיַחְפְּרוּ",
+    "translit": "veyachperu",
+    "pt_translation": "E sejam confundidos / humilhados",
+    "grammar": "Conjunção + Verbo Qal Imperfeito 3ª masc. plural (raiz: חפר)",
+    "verse": 14
+  },
+  {
+    "hebrew": "יַחַד",
+    "translit": "yachad",
+    "pt_translation": "Juntamente",
+    "grammar": "Advérbio",
+    "verse": 14
+  },
+  {
+    "hebrew": "מְבַקְשֵׁי",
+    "translit": "mevakshei",
+    "pt_translation": "Os que buscam",
+    "grammar": "Verbo Piel Particípio masculino plural construto (raiz: בקש)",
+    "verse": 14
+  },
+  {
+    "hebrew": "נַפְשִׁי",
+    "translit": "nafshi",
+    "pt_translation": "Minha vida / Minha alma",
+    "grammar": "Substantivo feminino singular + Sufixo 1ª com. sing.",
+    "verse": 14
+  },
+  {
+    "hebrew": "לִסְפּוֹתָהּ",
+    "translit": "lispotah",
+    "pt_translation": "Para tirá-la / destruí-la",
+    "grammar": "Preposição + Verbo Qal Infinitivo Construto + Sufixo 3ª fem. sing. (raiz: ספה)",
+    "verse": 14
+  },
+  {
+    "hebrew": "יִסֹּגוּ",
+    "translit": "yissogu",
+    "pt_translation": "Recuem / Voltem atrás",
+    "grammar": "Verbo Nifal Imperfeito 3ª masc. plural (raiz: סוג)",
+    "verse": 14
+  },
+  {
+    "hebrew": "אָחוֹר",
+    "translit": "achor",
+    "pt_translation": "Para trás",
+    "grammar": "Advérbio",
+    "verse": 14
+  },
+  {
+    "hebrew": "וְיִכָּלְמוּ",
+    "translit": "veyikkalemu",
+    "pt_translation": "E sejam cobertos de vergonha / desonrados",
+    "grammar": "Conjunção + Verbo Nifal Imperfeito 3ª masc. plural (raiz: כלם)",
+    "verse": 14
+  },
+  {
+    "hebrew": "חֲפֵצֵי",
+    "translit": "chafetsei",
+    "pt_translation": "Os que desejam / Se comprazem",
+    "grammar": "Adjetivo (ou Particípio) masculino plural construto (raiz: חפץ)",
+    "verse": 14
+  },
+  {
+    "hebrew": "רָעָתִי",
+    "translit": "ra'ati",
+    "pt_translation": "Minha ruína / Meu mal",
+    "grammar": "Substantivo feminino singular + Sufixo 1ª com. sing.",
+    "verse": 14
+  },
+  {
+    "hebrew": "יָשֹׁמּוּ",
+    "translit": "yashommu",
+    "pt_translation": "Fiquem desolados / Pasmos",
+    "grammar": "Verbo Qal Imperfeito 3ª masc. plural (raiz: שמם)",
+    "verse": 15
+  },
+  {
+    "hebrew": "עַל־עֵקֶב",
+    "translit": "al-eqev",
+    "pt_translation": "Em razão de / Como recompensa de",
+    "grammar": "Preposição + Substantivo masculino singular",
+    "verse": 15
+  },
+  {
+    "hebrew": "בָּשְׁתָּם",
+    "translit": "boshtam",
+    "pt_translation": "Sua vergonha",
+    "grammar": "Substantivo feminino singular + Sufixo 3ª masc. plural",
+    "verse": 15
+  },
+  {
+    "hebrew": "הָאֹמְרִים",
+    "translit": "ha'omerim",
+    "pt_translation": "Os que dizem",
+    "grammar": "Artigo + Verbo Qal Particípio masculino plural (raiz: אמר)",
+    "verse": 15
+  },
+  {
+    "hebrew": "לִי",
+    "translit": "li",
+    "pt_translation": "Para mim",
+    "grammar": "Preposição + Sufixo pronominal 1ª com. sing.",
+    "verse": 15
+  },
+  {
+    "hebrew": "הֶאָח",
+    "translit": "he'ach",
+    "pt_translation": "Ah! Ah! (escárnio)",
+    "grammar": "Interjeição",
+    "verse": 15
+  }
+]
